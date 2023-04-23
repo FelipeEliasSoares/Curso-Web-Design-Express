@@ -1,0 +1,16 @@
+p{
+    color: red;
+}
+
+.header01 > p{
+    color: blue;
+}
+
+.header02 > p{
+    color:green;
+}
+
+header.header01 > P {
+    color: black;
+}
+

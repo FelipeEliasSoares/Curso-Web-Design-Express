@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html,body{
+    height: 100%;
+}
+
+/*
+.box{
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    margin-left: 10px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    display: inline-block;
+}
+
+.box1{
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+*/
+
+.box{
+    width: 500px;
+    height: 500px;
+    background-color: green;
+    padding-left:20px ;
+    box-sizing: border-box;
+}
