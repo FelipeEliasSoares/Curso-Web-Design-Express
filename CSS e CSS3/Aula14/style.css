@@ -1,0 +1,25 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+html,
+body {
+    height: 100%;
+}
+
+.box {
+    color: brown;
+    position: relative;
+    background: wheat;
+    width: 500px;
+    height: 500px;
+}
+
+.box2{
+    color: brown;
+    position: relative;
+    background: wheat;
+    width: 500px;
+    height: 500px;
+}
