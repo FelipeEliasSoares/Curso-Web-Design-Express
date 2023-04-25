@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+html , body{
+    height: 100%;
+}
+
+
+.box{
+    width: 400px;
+    background: red;
+    height: 400px;
+}
+
+*:not(.box){
+    width: 200px;
+    height: 200px;
+    background: rebeccapurple;
+    color: white;
+}
+
+/*
+.box .filho:nth-child(2){
+    background-color: chartreuse;
+}
+*/
+
+/*
+.filho{
+    background: red;
+}
+
+
+.box .filho:nth-of-type(2n + 1){
+    background: violet;
+}
+*/
